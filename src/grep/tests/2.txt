@@ -1,0 +1,6 @@
+Hello everybody out there using minix -
+I'm doing a (free) operating system 
+I've currently ported bash(1.08) and gcc(1.40), 
+PS. Yes - it's free of any minix code, and it has a multi-threaded fs. 
+- Linus Torvalds
+And.
